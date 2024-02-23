@@ -10,4 +10,6 @@
 
 ### Problem-06 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  
 
-### Problem-05 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+### Problem-07 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+
+### Problem-08 [75. sort Colors](https://leetcode.com/problems/sort-colors/description/)
