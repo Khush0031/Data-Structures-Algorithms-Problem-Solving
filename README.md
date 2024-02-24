@@ -10,6 +10,7 @@
 |05|[3 sum](https://leetcode.com/problems/3sum/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/threeSum.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/threeSum.js)  |Medium|  
 |06|[Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/sortColor.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/sortColor.js)  |Medium|  
 |07|[reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/reverseWords.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/reverseWords.js)  |Medium|  
+|08|[4 sum](https://leetcode.com/problems/4sum/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/fourSum.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/fourSum.js)  |Medium|  
 
 
 ## Arrays and Hashing.  
