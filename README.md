@@ -12,6 +12,7 @@
 |07|[reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/reverseWords.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/reverseWords.js)  |Medium|  [T.C]() |
 |08|[4 sum](https://leetcode.com/problems/4sum/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/fourSum.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/fourSum.js)  |Medium|  [T.C]() |
 |09|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/movesZeroesToEnd.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/movesZeroesToEnd.js)  |Easy|  [T.C]() |
+|10|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [C++](./01.Array-and-TwoPointer/CPP-twoPointer-Solution/multiplyString.cpp), [JavaScrip](./01.Array-and-TwoPointer/JavaScript-twoPointer-Solution/multiplyString.js)  |Medium|  [T.C]() |
 
 
 ## Arrays and Hashing.  
