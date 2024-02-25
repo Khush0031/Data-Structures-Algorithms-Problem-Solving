@@ -19,3 +19,5 @@
 ### Problem-10 [18. 4 sum ](https://leetcode.com/problems/4sum/description/)
 
 ### Problem-11 [283.Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+
+### Problem-12 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
