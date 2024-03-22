@@ -20,4 +20,6 @@
 
 ### Problem-11 [283.Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
-### Problem-12 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
+### Problem-12 [2516. Take K Character From L && R](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)  
+
+### Problem-13 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)
