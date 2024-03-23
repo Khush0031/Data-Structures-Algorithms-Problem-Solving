@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-Problem-Solving
+# Data-Structures-Algorithms-Problem-Solving.
 
 ## Arrays and Two Pointers Problem.
 | # | Question's | Code Solution | Difficulty | Time Complexity | Mark Done or Not |
@@ -24,14 +24,21 @@
 |03|[valid anagram](https://leetcode.com/problems/3sum/description/) | [C++](./02.Array-and-Hashing/CPP-Hashing-Solution/validAnagramHashSolution.cpp), [JavaScrip](./02.Array-and-Hashing/JavaScript-Hashing-Solution/validAnagramHashSolution.js)  |Easy| [T.C]() |✅|
 |04|[contains duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C++](./02.Array-and-Hashing/CPP-Hashing-Solution/containsDuplicateHashSolution.cpp), [JavaScrip](./02.Array-and-Hashing/JavaScript-Hashing-Solution/containsDuplicateHashSolution.js)  |Easy| [T.C]() |✅|
 
-## Sorting Visualization link
+## Sorting Visualization link.
 (SelectionSort, BubbleSort, InsertionSort, QuickSort, MergeSort  )[https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html]  
 
-## Sorting Algorithm 
-| # | Question's | Code Solution | Difficulty | Time Complexity |
+## Sorting Algorithm. 
+| # | Sorting Algo's | Code Solution | Difficulty | Time Complexity |
 |---| ---------- | ------------- | ---------- | --------------- |
 |01|[Selection Sort]() | [C++](./03.SortingAlgo/SelectionSort/SelectionSort.cpp), [JavaScrip](./03.SortingAlgo/SelectionSort/SelectionSort.js) |-----| [O(n2)]() |✅|
 |02|[Bubble Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
 |03|[Insertion Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
 |04|[Merge Sort]() | [C++](./03.SortingAlgo/MergeSort/MergeSort.cpp), [JavaScrip](./03.SortingAlgo/MergeSort/MergeSort.js) |-----| [O(nlog(n)) : θ(nlog(n)) : Ω(nlog(n))]() |✅|
 |05|[Quick Sort]() | [C++](./03.SortingAlgo/QuickSort/QuickSort.cppp), [JavaScrip](./03.SortingAlgo/QuickSort/QuickSort.js) |-----| [pivot is Largest - O(n2), pivot is mid - O(nlog(n)), pivot is random - O(n2) : θ(nlogn))]() |✅|
+
+## Searching Algorithm.
+
+| # | Searching Algo's | Code Solution | Difficulty | Time Complexity |
+|---| ---------- | ------------- | ---------- | --------------- |
+|01|[Linear Search Algo]() | [C++](./04.SearchingAlgo/LinearSearch/linearSearch.cpp), [JavaScrip](./04.SearchingAlgo/LinearSearch/linearSearch.js) |-----| [O(n)]() |✅|
+|01|[Binary Search Algo]() | [C++](./04.SearchingAlgo/BinarySearch/binarySearch.cpp), [JavaScrip](./04.SearchingAlgo/BinarySearch/binarySearch.js) |-----| [O(nlog(n))]() |✅|
