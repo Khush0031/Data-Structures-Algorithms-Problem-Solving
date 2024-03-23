@@ -31,6 +31,7 @@
 | # | Question's | Code Solution | Difficulty | Time Complexity |
 |---| ---------- | ------------- | ---------- | --------------- |
 |01|[Selection Sort]() | [C++](./03.SortingAlgo/SelectionSort/SelectionSort.cpp), [JavaScrip](./03.SortingAlgo/SelectionSort/SelectionSort.js) |-----| [O(n2)]() |✅|
-|02|[Bubble Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n - Ω(n))]() |✅|
+|02|[Bubble Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
 |03|[Insertion Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
-|04|[Merge Sort]() | [C++](./03.SortingAlgo/MergeSort/MergeSort.cpp), [JavaScrip](./03.SortingAlgo/MergeSort/MergeSort.js) |-----| [O(nlogn) - θ(nlogn) - Ω(nlogn))]() |✅|
+|04|[Merge Sort]() | [C++](./03.SortingAlgo/MergeSort/MergeSort.cpp), [JavaScrip](./03.SortingAlgo/MergeSort/MergeSort.js) |-----| [O(nlog(n)) : θ(nlog(n)) : Ω(nlog(n))]() |✅|
+|05|[Quick Sort]() | [C++](./03.SortingAlgo/QuickSort/QuickSort.cppp), [JavaScrip](./03.SortingAlgo/QuickSort/QuickSort.js) |-----| [pivot is Largest - O(n2), pivot is mid - O(nlog(n)), pivot is random - O(n2) : θ(nlogn))]() |✅|
