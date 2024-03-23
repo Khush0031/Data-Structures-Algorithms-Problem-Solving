@@ -17,8 +17,8 @@
 
 
 ## Arrays and Hashing Problem.  
-| # | Question's | Code Solution | Difficulty | Time Complexity |
-|---| ---------- | ------------- | ---------- | --------------- |
+| # | Question's | Code Solution | Difficulty | Time Complexity | Mark Done or Not |
+|---| ---------- | ------------- | ---------- | --------------- | ---------------  |
 |01|[TwoSum](https://leetcode.com/problems/two-sum/description/) | [C++](./02.Array-and-Hashing/CPP-Hashing-Solution/twoSumHashSolution.cpp), [JavaScrip](./02.Array-and-Hashing/JavaScript-Hashing-Solution/twoSumHashSolution.js)  |Easy| [T.C]() |✅|
 |02|[two sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](./02.Array-and-Hashing/CPP-Hashing-Solution/twoSum2HashSolution.cpp), [JavaScrip](./02.Array-and-Hashing/JavaScript-Hashing-Solution/twoSum2HashSolution.js)  |Medium| [T.C]() |✅|
 |03|[valid anagram](https://leetcode.com/problems/3sum/description/) | [C++](./02.Array-and-Hashing/CPP-Hashing-Solution/validAnagramHashSolution.cpp), [JavaScrip](./02.Array-and-Hashing/JavaScript-Hashing-Solution/validAnagramHashSolution.js)  |Easy| [T.C]() |✅|
@@ -30,15 +30,24 @@
 ## Sorting Algorithm. 
 | # | Sorting Algo's | Code Solution | Difficulty | Time Complexity |
 |---| ---------- | ------------- | ---------- | --------------- |
-|01|[Selection Sort]() | [C++](./03.SortingAlgo/SelectionSort/SelectionSort.cpp), [JavaScrip](./03.SortingAlgo/SelectionSort/SelectionSort.js) |-----| [O(n2)]() |✅|
-|02|[Bubble Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
-|03|[Insertion Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n))]() |✅|
-|04|[Merge Sort]() | [C++](./03.SortingAlgo/MergeSort/MergeSort.cpp), [JavaScrip](./03.SortingAlgo/MergeSort/MergeSort.js) |-----| [O(nlog(n)) : θ(nlog(n)) : Ω(nlog(n))]() |✅|
-|05|[Quick Sort]() | [C++](./03.SortingAlgo/QuickSort/QuickSort.cppp), [JavaScrip](./03.SortingAlgo/QuickSort/QuickSort.js) |-----| [pivot is Largest - O(n2), pivot is mid - O(nlog(n)), pivot is random - O(n2) : θ(nlogn))]() |✅|
+|01|[Selection Sort]() | [C++](./03.SortingAlgo/SelectionSort/SelectionSort.cpp), [JavaScrip](./03.SortingAlgo/SelectionSort/SelectionSort.js) |-----| [O(n2)]()|
+|02|[Bubble Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n)]()| 
+|03|[Insertion Sort]() | [C++](./03.SortingAlgo/BubbleSort/BubbleSort.cpp), [JavaScrip](./03.SortingAlgo/BubbleSort/BubbleSort.js) |-----| [O(n2) - θ(n) - Ω(n)]()|
+|04|[Merge Sort]() | [C++](./03.SortingAlgo/MergeSort/MergeSort.cpp), [JavaScrip](./03.SortingAlgo/MergeSort/MergeSort.js) |-----| [O(nlog(n)) : θ(nlog(n)) : Ω(nlog(n))]()| 
+|05|[Quick Sort]() | [C++](./03.SortingAlgo/QuickSort/QuickSort.cppp), [JavaScrip](./03.SortingAlgo/QuickSort/QuickSort.js) |-----| [If pivot is Largest - O(n2), If pivot is mid - O(nlog(n)), If pivot is random - O(n2) : θ(nlogn)]()|
 
 ## Searching Algorithm.
 
 | # | Searching Algo's | Code Solution | Difficulty | Time Complexity |
 |---| ---------- | ------------- | ---------- | --------------- |
-|01|[Linear Search Algo]() | [C++](./04.SearchingAlgo/LinearSearch/linearSearch.cpp), [JavaScrip](./04.SearchingAlgo/LinearSearch/linearSearch.js) |-----| [O(n)]() |✅|
-|01|[Binary Search Algo]() | [C++](./04.SearchingAlgo/BinarySearch/binarySearch.cpp), [JavaScrip](./04.SearchingAlgo/BinarySearch/binarySearch.js) |-----| [O(nlog(n))]() |✅|
+|01|[Linear Search Algo]() | [C++](./04.SearchingAlgo/LinearSearch/linearSearch.cpp), [JavaScrip](./04.SearchingAlgo/LinearSearch/linearSearch.js) |-----| [O(n)]()| 
+|02|[Binary Search Algo]() | [C++](./04.SearchingAlgo/BinarySearch/binarySearch.cpp), [JavaScrip](./04.SearchingAlgo/BinarySearch/binarySearch.js) |-----| [O(nlog(n))]()| 
+
+## Dynamic Programming (DP) 
+
+`Dynamic Programming (DP) Explanation` [Click Here....](./05.DP/Explanation.md)
+
+| # | DP Algo's | Code Solution | Difficulty | Time Complexity |
+|---| ---------- | ------------- | ---------- | --------------- |
+|01|[Tabulation DP]() | [C++](./05.DP/tabulationDP.cpp) |-----| [O(n)]()| 
+|02|[Memoization DP]() | [C++](./05.DP/memoizationDP.cpp) |-----| [O(nlog(n))]()|
